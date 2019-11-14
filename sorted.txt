@@ -934,434 +934,6 @@ Three-month and ten-year Spread: -0.01
 Two-year and ten-year spread: 0.27
 
 
-10/14/19
-This day is a holiday, no treasuries are issued on holidays
-
-
-9/2/19
-This day is a holiday, no treasuries are issued on holidays
-
-
-7/4/19
-This day is a holiday, no treasuries are issued on holidays
-
-
-5/27/19
-This day is a holiday, no treasuries are issued on holidays
-
-
-4/19/19
-This day is a holiday, no treasuries are issued on holidays
-
-
-2/18/19
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/21/19
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/1/19
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/25/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/5/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/22/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/12/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-10/8/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-9/3/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-7/4/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-5/28/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-3/30/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-2/19/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/15/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/1/18
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/25/17
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/23/17
-This day is a holiday, no treasuries are issued on holidays
-
-
-10/9/17
-This day is a holiday, no treasuries are issued on holidays
-
-
-9/4/17
-This day is a holiday, no treasuries are issued on holidays
-
-
-7/4/17
-This day is a holiday, no treasuries are issued on holidays
-
-
-5/29/17
-This day is a holiday, no treasuries are issued on holidays
-
-
-4/14/17
-This day is a holiday, no treasuries are issued on holidays
-
-
-2/20/17
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/16/17
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/2/17
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/26/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/24/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/11/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-10/10/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-9/5/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-7/4/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-5/30/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-3/25/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-2/15/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/18/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/1/16
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/25/15
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/26/15
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/11/15
-This day is a holiday, no treasuries are issued on holidays
-
-
-10/12/15
-This day is a holiday, no treasuries are issued on holidays
-
-
-9/7/15
-This day is a holiday, no treasuries are issued on holidays
-
-
-7/3/15
-This day is a holiday, no treasuries are issued on holidays
-
-
-5/25/15
-This day is a holiday, no treasuries are issued on holidays
-
-
-2/16/15
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/19/15
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/1/15
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/25/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/27/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/11/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-10/13/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-9/1/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-7/4/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-5/26/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-4/18/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-2/17/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/20/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/1/14
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/25/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/28/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/11/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-10/14/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-9/2/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-7/4/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-5/27/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-3/29/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-2/18/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/21/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/1/13
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/25/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/22/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/12/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-10/30/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-10/8/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-9/3/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-7/4/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-5/28/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-2/20/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/16/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/2/12
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/26/11
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/24/11
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/11/11
-This day is a holiday, no treasuries are issued on holidays
-
-
-10/10/11
-This day is a holiday, no treasuries are issued on holidays
-
-
-9/5/11
-This day is a holiday, no treasuries are issued on holidays
-
-
-7/4/11
-This day is a holiday, no treasuries are issued on holidays
-
-
-5/30/11
-This day is a holiday, no treasuries are issued on holidays
-
-
-4/22/11
-This day is a holiday, no treasuries are issued on holidays
-
-
-2/21/11
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/17/11
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/24/10
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/25/10
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/11/10
-This day is a holiday, no treasuries are issued on holidays
-
-
-10/11/10
-This day is a holiday, no treasuries are issued on holidays
-
-
-9/6/10
-This day is a holiday, no treasuries are issued on holidays
-
-
-7/5/10
-This day is a holiday, no treasuries are issued on holidays
-
-
-5/31/10
-This day is a holiday, no treasuries are issued on holidays
-
-
-2/15/10
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/18/10
-This day is a holiday, no treasuries are issued on holidays
-
-
-1/1/10
-This day is a holiday, no treasuries are issued on holidays
-
-
-12/25/9
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/26/9
-This day is a holiday, no treasuries are issued on holidays
-
-
-11/11/9
-This day is a holiday, no treasuries are issued on holidays
-
-
 5/17/19
 Three-month constant maturity rate: 2.39
 Two-year constant maturity rate: 2.2
@@ -22942,5 +22514,433 @@ Ten-year constant maturity rate: 4.01
 
 Three-month and ten-year Spread: 3.83
 Two-year and ten-year spread: 2.83
+
+
+10/14/19
+This day is a holiday, no treasuries are issued on holidays
+
+
+9/2/19
+This day is a holiday, no treasuries are issued on holidays
+
+
+7/4/19
+This day is a holiday, no treasuries are issued on holidays
+
+
+5/27/19
+This day is a holiday, no treasuries are issued on holidays
+
+
+4/19/19
+This day is a holiday, no treasuries are issued on holidays
+
+
+2/18/19
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/21/19
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/1/19
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/25/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/5/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/22/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/12/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+10/8/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+9/3/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+7/4/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+5/28/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+3/30/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+2/19/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/15/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/1/18
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/25/17
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/23/17
+This day is a holiday, no treasuries are issued on holidays
+
+
+10/9/17
+This day is a holiday, no treasuries are issued on holidays
+
+
+9/4/17
+This day is a holiday, no treasuries are issued on holidays
+
+
+7/4/17
+This day is a holiday, no treasuries are issued on holidays
+
+
+5/29/17
+This day is a holiday, no treasuries are issued on holidays
+
+
+4/14/17
+This day is a holiday, no treasuries are issued on holidays
+
+
+2/20/17
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/16/17
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/2/17
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/26/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/24/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/11/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+10/10/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+9/5/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+7/4/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+5/30/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+3/25/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+2/15/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/18/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/1/16
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/25/15
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/26/15
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/11/15
+This day is a holiday, no treasuries are issued on holidays
+
+
+10/12/15
+This day is a holiday, no treasuries are issued on holidays
+
+
+9/7/15
+This day is a holiday, no treasuries are issued on holidays
+
+
+7/3/15
+This day is a holiday, no treasuries are issued on holidays
+
+
+5/25/15
+This day is a holiday, no treasuries are issued on holidays
+
+
+2/16/15
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/19/15
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/1/15
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/25/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/27/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/11/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+10/13/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+9/1/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+7/4/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+5/26/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+4/18/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+2/17/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/20/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/1/14
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/25/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/28/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/11/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+10/14/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+9/2/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+7/4/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+5/27/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+3/29/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+2/18/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/21/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/1/13
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/25/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/22/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/12/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+10/30/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+10/8/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+9/3/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+7/4/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+5/28/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+2/20/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/16/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/2/12
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/26/11
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/24/11
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/11/11
+This day is a holiday, no treasuries are issued on holidays
+
+
+10/10/11
+This day is a holiday, no treasuries are issued on holidays
+
+
+9/5/11
+This day is a holiday, no treasuries are issued on holidays
+
+
+7/4/11
+This day is a holiday, no treasuries are issued on holidays
+
+
+5/30/11
+This day is a holiday, no treasuries are issued on holidays
+
+
+4/22/11
+This day is a holiday, no treasuries are issued on holidays
+
+
+2/21/11
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/17/11
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/24/10
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/25/10
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/11/10
+This day is a holiday, no treasuries are issued on holidays
+
+
+10/11/10
+This day is a holiday, no treasuries are issued on holidays
+
+
+9/6/10
+This day is a holiday, no treasuries are issued on holidays
+
+
+7/5/10
+This day is a holiday, no treasuries are issued on holidays
+
+
+5/31/10
+This day is a holiday, no treasuries are issued on holidays
+
+
+2/15/10
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/18/10
+This day is a holiday, no treasuries are issued on holidays
+
+
+1/1/10
+This day is a holiday, no treasuries are issued on holidays
+
+
+12/25/9
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/26/9
+This day is a holiday, no treasuries are issued on holidays
+
+
+11/11/9
+This day is a holiday, no treasuries are issued on holidays
 
 

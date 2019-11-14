@@ -10,6 +10,7 @@
 
 class SortedLinkedList : public LinkedList{
     public:
+        //Functions
         void insertSorted(const Data& d);
 };
 

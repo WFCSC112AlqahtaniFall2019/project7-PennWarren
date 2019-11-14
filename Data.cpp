@@ -20,6 +20,10 @@ Data::Data(std::string s, double threeMo, double twoYr, double tenYr) {
     twoYear = twoYr;
     tenYear = tenYr;
     setDerivedData();
+    if(holiday){
+        TenYr_ThreeMo_Spread = 100;
+        TenYr_TwoYr_Spread = 100;
+    }
 }
 
 //Output stream operator
