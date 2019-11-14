@@ -3,4 +3,4 @@ project(project7)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(project7 main.cpp)
+add_executable(project7 main.cpp Data.cpp Data.h Day.cpp Day.h Stack.cpp Stack.h LinkedList.cpp LinkedList.h Queue.cpp Queue.h SortedLinkedList.cpp SortedLinkedList.h)
