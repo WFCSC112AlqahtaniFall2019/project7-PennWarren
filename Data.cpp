@@ -30,16 +30,19 @@ ostream &operator<<(ostream &os, const Data &d) {
         os << "This day is a holiday, no treasuries are issued on holidays\n" << endl;
     }
     else{
-        os << "Three month constant maturity rate: " << d.threeMonth << endl;
-        os << "Two year constant maturity rate: " << d.twoYear << endl;
-        os << "Ten year constant maturity rate: " << d.tenYear << endl << endl;
-        os << "Three month and ten year Spread: " << d.TenYr_ThreeMo_Spread << endl;
-        os << "Two and ten spread: " << d.TenYr_TwoYr_Spread << endl << endl;
+        os << "Three-month constant maturity rate: " << d.threeMonth << endl;
+        os << "Two-year constant maturity rate: " << d.twoYear << endl;
+        os << "Ten-year constant maturity rate: " << d.tenYear << endl << endl;
+        os << "Three-month and ten-year Spread: " << d.TenYr_ThreeMo_Spread << endl;
+        os << "Two-year and ten-year spread: " << d.TenYr_TwoYr_Spread << endl << endl;
     }
 
     return os;
 }
-//Comparison operators sort based on the three month, ten year spread
+/*Comparison operators sort:
+ * primarily on the three-month, ten-year spread
+ * secondarily on the two-year, ten-year spread
+*/
 bool Data::operator<(const Data &rhs) {
     if(this->TenYr_ThreeMo_Spread != rhs.TenYr_ThreeMo_Spread){
         return this->TenYr_ThreeMo_Spread < rhs.TenYr_ThreeMo_Spread;
@@ -75,10 +78,10 @@ void Data::printDataScreen() {
         cout << "This day is a holiday, no treasuries are issued on holidays" << endl;
     }
     else{
-        cout << "Three month constant maturity rate: " << threeMonth << endl;
-        cout << "Two year constant maturity rate: " << twoYear << endl;
-        cout << "Ten year constant maturity rate: " << tenYear << endl << endl;
-        cout << "Three month and ten year Spread: " << TenYr_ThreeMo_Spread << endl;
-        cout << "Two and ten spread: " << TenYr_TwoYr_Spread << endl << endl;
+        cout << "Three-month constant maturity rate: " << threeMonth << endl;
+        cout << "Two-year constant maturity rate: " << twoYear << endl;
+        cout << "Ten-year constant maturity rate: " << tenYear << endl << endl;
+        cout << "Three-month and ten-year Spread: " << TenYr_ThreeMo_Spread << endl;
+        cout << "Two-year and ten-year spread: " << TenYr_TwoYr_Spread << endl << endl;
     }
 }

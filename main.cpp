@@ -23,11 +23,13 @@ int main() {
         cout << "Could not open file." << endl;
     }
 
+    //declare three lists
     Stack stackedYields;
     Queue queuedYields;
     SortedLinkedList sortedYields;
 
     while(!spreadsheet.eof()){
+        //put each line into a stringstream for parsing
         string line;
         getline(spreadsheet, line);
         stringstream s(line);
