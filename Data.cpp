@@ -27,7 +27,7 @@ ostream &operator<<(ostream &os, const Data &d) {
     os << d.date.outputDate() << endl;
 
     if(d.holiday){
-        os << "This day is a holiday, no treasuries are issued on holidays" << endl;
+        os << "This day is a holiday, no treasuries are issued on holidays\n" << endl;
     }
     else{
         os << "Three month constant maturity rate: " << d.threeMonth << endl;
@@ -41,10 +41,20 @@ ostream &operator<<(ostream &os, const Data &d) {
 }
 //Comparison operators sort based on the three month, ten year spread
 bool Data::operator<(const Data &rhs) {
-    return this->TenYr_ThreeMo_Spread < rhs.TenYr_ThreeMo_Spread;
+    if(this->TenYr_ThreeMo_Spread != rhs.TenYr_ThreeMo_Spread){
+        return this->TenYr_ThreeMo_Spread < rhs.TenYr_ThreeMo_Spread;
+    }
+    else{
+        return this->TenYr_TwoYr_Spread < rhs.TenYr_TwoYr_Spread;
+    }
 }
 bool Data::operator>(const Data &rhs) {
-    return this->TenYr_ThreeMo_Spread > rhs.TenYr_ThreeMo_Spread;
+    if(this->TenYr_ThreeMo_Spread != rhs.TenYr_ThreeMo_Spread){
+        return this->TenYr_ThreeMo_Spread > rhs.TenYr_ThreeMo_Spread;
+    }
+    else{
+        return this->TenYr_TwoYr_Spread > rhs.TenYr_TwoYr_Spread;
+    }
 }
 
 //Set derived member variables for spreads and holiday
