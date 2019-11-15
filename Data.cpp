@@ -56,12 +56,7 @@ bool Data::operator<(const Data &rhs) {
     }
 }
 bool Data::operator>(const Data &rhs) {
-    if(this->TenYr_ThreeMo_Spread != rhs.TenYr_ThreeMo_Spread){
-        return this->TenYr_ThreeMo_Spread > rhs.TenYr_ThreeMo_Spread;
-    }
-    else{
-        return this->TenYr_TwoYr_Spread > rhs.TenYr_TwoYr_Spread;
-    }
+    return(!(*this < rhs));
 }
 
 //Set derived member variables for spreads and holiday

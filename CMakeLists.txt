@@ -1,6 +1,22 @@
 cmake_minimum_required(VERSION 3.14)
-project(project7)
+project(project7_PennWarren)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(project7 main.cpp Data.cpp Data.h Day.cpp Day.h Stack.cpp Stack.h LinkedList.cpp LinkedList.h Queue.cpp Queue.h SortedLinkedList.cpp SortedLinkedList.h)
+include_directories(.)
+
+add_executable(project7_PennWarren
+    Data.cpp
+    Data.h
+    Day.cpp
+    Day.h
+    Queue.h
+    Queue.cpp
+    LinkedList.h
+    LinkedList.cpp
+    SortedLinkedList.h
+    SortedLinkedList.cpp
+    Stack.h
+    Stack.cpp
+    main.cpp
+        )
